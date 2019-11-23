@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["n3Sa5"]); }
+
+__d("VideoCaptionsTextSize",[],(function(a,b,c,d,e,f){e.exports=Object.freeze({BIGGEST:200,BIGGER:175,BIG:150,MEDIUM:125,DEFAULT:100,SMALL:75,SMALLEST:50})}),null);

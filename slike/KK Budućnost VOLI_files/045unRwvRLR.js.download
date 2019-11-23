@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["X2RGV"]); }
+
+__d("VideoCaptionsBackgroundOpacity",[],(function(a,b,c,d,e,f){e.exports=Object.freeze({OPAQUE:100,DARK:75,DEFAULT:45,LIGHT:25,TRANSPARENT:-1})}),null);
